@@ -1,0 +1,590 @@
+
+D&D-Nexus/.vscode/settings.json
+D&D-Nexus/.vsconfig
+D&D-Nexus/Assets/Input.meta
+D&D-Nexus/Assets/Input/PlayerInput.cs
+D&D-Nexus/Assets/Input/PlayerInput.cs.meta
+D&D-Nexus/Assets/Input/PlayerInput.inputactions
+D&D-Nexus/Assets/Input/PlayerInput.inputactions.meta
+D&D-Nexus/Assets/Prefabs.meta
+D&D-Nexus/Assets/Prefabs/Player.prefab
+D&D-Nexus/Assets/Prefabs/Player.prefab.meta
+D&D-Nexus/Assets/Scenes.meta
+D&D-Nexus/Assets/Scenes/SampleScene.unity
+D&D-Nexus/Assets/Scenes/SampleScene.unity.meta
+D&D-Nexus/Assets/Scripts.meta
+D&D-Nexus/Assets/Scripts/InputManager.cs
+D&D-Nexus/Assets/Scripts/InputManager.cs.meta
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.ai@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.ai@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.ai@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.ai@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.ai@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.ai@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.androidjni@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.animation@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.animation@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.animation@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.animation@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.animation@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.animation@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.assetbundle@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.assetbundle@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.assetbundle@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.assetbundle@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.audio@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.audio@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.audio@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.audio@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.audio@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.audio@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.cloth@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.cloth@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.cloth@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.cloth@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.cloth@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.cloth@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.director@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.director@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.director@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.director@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.imgui@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.imgui@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.imgui@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.imgui@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.imgui@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.imgui@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.particlesystem@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.particlesystem@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.particlesystem@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics2d@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics2d@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics2d@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.physics@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.screencapture@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.screencapture@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.screencapture@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.subsystems@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrain@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrain@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrain@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrain@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.ui@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.ui@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.ui@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.ui@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.ui@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.ui@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.uielements@1.0.0/package.json
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall02.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall02.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall01c.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall01c.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall01b.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall01b.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall01.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall01.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech08.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech08.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech07.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech07.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech06.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech06.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05e.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05e.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05d.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05d.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05c.tga.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05c.tga
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05b.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05b.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech05.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech04b.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech04b.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech04.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech04.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech03.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech03.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech02c.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech02c.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech02b.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech02b.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech02.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech02.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech01c.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech01c.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech01b.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech01b.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech01.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/FloorTech01.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures.meta
+Nexus/Assets/ArtskillZ Store.meta
+Nexus/.vsconfig
+Nexus/.vscode/settings.json
+Nexus/.DS_Store
+D&D-Nexus/ProjectSettings/XRSettings.asset
+D&D-Nexus/ProjectSettings/VFXManager.asset
+D&D-Nexus/ProjectSettings/VersionControlSettings.asset
+D&D-Nexus/ProjectSettings/UnityConnectSettings.asset
+D&D-Nexus/ProjectSettings/TimeManager.asset
+D&D-Nexus/ProjectSettings/TimelineSettings.asset
+D&D-Nexus/ProjectSettings/TagManager.asset
+D&D-Nexus/ProjectSettings/SceneTemplateSettings.json
+D&D-Nexus/ProjectSettings/QualitySettings.asset
+D&D-Nexus/ProjectSettings/ProjectVersion.txt
+D&D-Nexus/ProjectSettings/ProjectSettings.asset
+D&D-Nexus/ProjectSettings/PresetManager.asset
+D&D-Nexus/ProjectSettings/Physics2DSettings.asset
+D&D-Nexus/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+D&D-Nexus/ProjectSettings/PackageManagerSettings.asset
+D&D-Nexus/ProjectSettings/NavMeshAreas.asset
+D&D-Nexus/ProjectSettings/MemorySettings.asset
+D&D-Nexus/ProjectSettings/InputManager.asset
+D&D-Nexus/ProjectSettings/GraphicsSettings.asset
+D&D-Nexus/ProjectSettings/EditorSettings.asset
+D&D-Nexus/ProjectSettings/EditorBuildSettings.asset
+D&D-Nexus/ProjectSettings/DynamicsManager.asset
+D&D-Nexus/ProjectSettings/ClusterInputManager.asset
+D&D-Nexus/ProjectSettings/AudioManager.asset
+D&D-Nexus/Packages/packages-lock.json
+D&D-Nexus/Packages/manifest.json
+D&D-Nexus/Logs/Packages-Update.log
+D&D-Nexus/Library/PackageManager/ProjectCache.md5
+D&D-Nexus/Library/PackageManager/ProjectCache
+D&D-Nexus/Library/PackageCache/com.unity.modules.xr@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.xr@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.xr@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.xr@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.wind@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.wind@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.wind@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.wind@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.wind@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.wind@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.vr@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.vr@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.vr@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.vr@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.video@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.video@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.video@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.video@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.vehicles@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.vehicles@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.vehicles@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.umbra@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.umbra@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.umbra@1.0.0/package.json.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.umbra@1.0.0/package.json
+D&D-Nexus/Library/PackageCache/com.unity.modules.umbra@1.0.0/.icon.png.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.umbra@1.0.0/.icon.png
+D&D-Nexus/Library/PackageCache/com.unity.modules.uielements@1.0.0/package.ModuleCompilationTrigger.meta
+D&D-Nexus/Library/PackageCache/com.unity.modules.uielements@1.0.0/package.ModuleCompilationTrigger
+D&D-Nexus/Library/PackageCache/com.unity.modules.uielements@1.0.0/package.json.meta
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs.meta
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs
+D&D-Nexus/Assets/Scripts/InputManager.cs.meta
+D&D-Nexus/Assets/Scripts/InputManager.cs
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey4.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey4.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Grey1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Green3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Green3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Green2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Green2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Green1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Green1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Cyan.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Cyan.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Brown.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Brown.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Blue3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Blue3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Blue2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Blue2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Blue1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Blue1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Neon Light.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Neon Light.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo/GI Blocker.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo/GI Blocker.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Demo Lightmap Parameters.giparams.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Demo Lightmap Parameters.giparams
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo.unity.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo.unity
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo/Prototype Materials Demo.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Demo.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials.meta
+Nexus/Assets/Thirdparty/Ciathyza.meta
+Nexus/Assets/Thirdparty.meta
+Nexus/Assets/Scripts/PlayerCam.cs.meta
+Nexus/Assets/Scripts/PlayerCam.cs
+Nexus/Assets/Scripts/MoveCamera.cs.meta
+Nexus/Assets/Scripts/MoveCamera.cs
+Nexus/Assets/Scripts.meta
+Nexus/Assets/Scenes/SampleScene.unity.meta
+Nexus/Assets/Scenes/SampleScene.unity
+Nexus/Assets/Scenes.meta
+Nexus/Assets/Materials/New Material.mat.meta
+Nexus/Assets/Materials/New Material.mat
+Nexus/Assets/Materials/FloorTiles.mat.meta
+Nexus/Assets/Materials/FloorTiles.mat
+Nexus/Assets/Materials.meta
+Nexus/Assets/Look/Inputs.inputactions.meta
+Nexus/Assets/Look/Inputs.inputactions
+Nexus/Assets/Look.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall03.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall03.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall02c.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall02c.jpg
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall02b.jpg.meta
+Nexus/Assets/ArtskillZ Store/Free SciFi Textures/Wall02b.jpg
+D&D-Nexus/ProjectSettings/XRSettings.asset
+D&D-Nexus/ProjectSettings/VFXManager.asset
+D&D-Nexus/ProjectSettings/VersionControlSettings.asset
+D&D-Nexus/ProjectSettings/UnityConnectSettings.asset
+D&D-Nexus/ProjectSettings/TimeManager.asset
+D&D-Nexus/ProjectSettings/TimelineSettings.asset
+D&D-Nexus/ProjectSettings/TagManager.asset
+D&D-Nexus/ProjectSettings/SceneTemplateSettings.json
+D&D-Nexus/ProjectSettings/QualitySettings.asset
+D&D-Nexus/ProjectSettings/ProjectVersion.txt
+D&D-Nexus/ProjectSettings/ProjectSettings.asset
+D&D-Nexus/ProjectSettings/PresetManager.asset
+D&D-Nexus/ProjectSettings/Physics2DSettings.asset
+D&D-Nexus/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+D&D-Nexus/ProjectSettings/PackageManagerSettings.asset
+D&D-Nexus/ProjectSettings/NavMeshAreas.asset
+D&D-Nexus/ProjectSettings/MemorySettings.asset
+D&D-Nexus/ProjectSettings/InputManager.asset
+D&D-Nexus/ProjectSettings/GraphicsSettings.asset
+D&D-Nexus/ProjectSettings/EditorSettings.asset
+D&D-Nexus/ProjectSettings/EditorBuildSettings.asset
+D&D-Nexus/ProjectSettings/DynamicsManager.asset
+D&D-Nexus/ProjectSettings/ClusterInputManager.asset
+D&D-Nexus/ProjectSettings/AudioManager.asset
+D&D-Nexus/Packages/packages-lock.json
+D&D-Nexus/Packages/manifest.json
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs.meta
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs
+D&D-Nexus/Assets/Scripts/InputManager.cs.meta
+D&D-Nexus/Assets/Scripts/InputManager.cs
+D&D-Nexus/Assets/Scripts.meta
+D&D-Nexus/Assets/Scenes/SampleScene.unity.meta
+D&D-Nexus/Assets/Scenes/SampleScene.unity
+D&D-Nexus/Assets/Scenes.meta
+D&D-Nexus/Assets/Prefabs/Player.prefab.meta
+D&D-Nexus/Assets/Prefabs/Player.prefab
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue1.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Template/prototype_texture_512x512.psd.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Template/prototype_texture_512x512.psd
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Template.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Yellow.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Yellow.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_White.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_White.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Red.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Red.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Purple.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Purple.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Pink.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Pink.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Orange.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Orange.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Olive.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Olive.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Magenta.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Magenta.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey4.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey4.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Grey1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Green3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Green3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Green2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Green2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Green1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Green1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Cyan.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Cyan.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Brown.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Brown.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Blue3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Blue3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Blue2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Blue2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Blue1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP/Prototype_512x512_Blue1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/URP.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Yellow.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Yellow.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_White.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_White.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Red.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Red.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Purple.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Purple.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Pink.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Pink.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Orange.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Orange.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Olive.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Olive.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Magenta.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Magenta.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey4.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey4.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Grey1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Green1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Cyan.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Cyan.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Brown.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Brown.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue3.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue3.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue2.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue2.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue1.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard/Prototype_512x512_Blue1.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/Standard.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Yellow.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Yellow.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_White.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_White.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Red.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Red.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Purple.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Purple.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Pink.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Pink.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Orange.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Orange.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Olive.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Olive.mat
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Magenta.mat.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Materials/HDRP/Prototype_512x512_Magenta.mat
+D&D-Nexus/ProjectSettings/XRSettings.asset
+D&D-Nexus/ProjectSettings/VFXManager.asset
+D&D-Nexus/ProjectSettings/VersionControlSettings.asset
+D&D-Nexus/ProjectSettings/UnityConnectSettings.asset
+D&D-Nexus/ProjectSettings/TimeManager.asset
+D&D-Nexus/ProjectSettings/TimelineSettings.asset
+D&D-Nexus/ProjectSettings/TagManager.asset
+D&D-Nexus/ProjectSettings/SceneTemplateSettings.json
+D&D-Nexus/ProjectSettings/QualitySettings.asset
+D&D-Nexus/ProjectSettings/ProjectVersion.txt
+D&D-Nexus/ProjectSettings/ProjectSettings.asset
+D&D-Nexus/ProjectSettings/PresetManager.asset
+D&D-Nexus/ProjectSettings/Physics2DSettings.asset
+D&D-Nexus/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+D&D-Nexus/ProjectSettings/PackageManagerSettings.asset
+D&D-Nexus/ProjectSettings/NavMeshAreas.asset
+D&D-Nexus/ProjectSettings/MemorySettings.asset
+D&D-Nexus/ProjectSettings/InputManager.asset
+D&D-Nexus/ProjectSettings/GraphicsSettings.asset
+D&D-Nexus/ProjectSettings/EditorSettings.asset
+D&D-Nexus/ProjectSettings/EditorBuildSettings.asset
+D&D-Nexus/ProjectSettings/DynamicsManager.asset
+D&D-Nexus/ProjectSettings/ClusterInputManager.asset
+D&D-Nexus/ProjectSettings/AudioManager.asset
+D&D-Nexus/Packages/packages-lock.json
+D&D-Nexus/Packages/manifest.json
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs.meta
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs
+D&D-Nexus/Assets/Scripts/InputManager.cs.meta
+D&D-Nexus/Assets/Scripts/InputManager.cs
+D&D-Nexus/Assets/Scripts.meta
+D&D-Nexus/Assets/Scenes/SampleScene.unity.meta
+D&D-Nexus/Assets/Scenes/SampleScene.unity
+D&D-Nexus/Assets/Scenes.meta
+D&D-Nexus/Assets/Prefabs/Player.prefab.meta
+D&D-Nexus/Assets/Prefabs/Player.prefab
+D&D-Nexus/Assets/Prefabs.meta
+D&D-Nexus/Assets/Input/PlayerInput.inputactions.meta
+D&D-Nexus/Assets/Input/PlayerInput.inputactions
+D&D-Nexus/Assets/Input/PlayerInput.cs.meta
+D&D-Nexus/Assets/Input/PlayerInput.cs
+D&D-Nexus/Assets/Input.meta
+D&D-Nexus/.vsconfig
+D&D-Nexus/.vscode/settings.json
+.DS_Store
+D&D-Nexus/.vscode/settings.json
+D&D-Nexus/.vsconfig
+D&D-Nexus/Assets/Input.meta
+D&D-Nexus/Assets/Input/PlayerInput.cs
+D&D-Nexus/Assets/Input/PlayerInput.cs.meta
+D&D-Nexus/Assets/Input/PlayerInput.inputactions
+D&D-Nexus/Assets/Input/PlayerInput.inputactions.meta
+D&D-Nexus/Assets/Prefabs.meta
+D&D-Nexus/Assets/Prefabs/Player.prefab
+D&D-Nexus/Assets/Prefabs/Player.prefab.meta
+D&D-Nexus/Assets/Scenes.meta
+D&D-Nexus/Assets/Scenes/SampleScene.unity
+D&D-Nexus/Assets/Scenes/SampleScene.unity.meta
+D&D-Nexus/Assets/Scripts.meta
+D&D-Nexus/Assets/Scripts/InputManager.cs
+D&D-Nexus/Assets/Scripts/InputManager.cs.meta
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs
+D&D-Nexus/Assets/Scripts/PlayerMotor.cs.meta
+D&D-Nexus/Packages/manifest.json
+D&D-Nexus/Packages/packages-lock.json
+D&D-Nexus/ProjectSettings/AudioManager.asset
+D&D-Nexus/ProjectSettings/ClusterInputManager.asset
+D&D-Nexus/ProjectSettings/DynamicsManager.asset
+D&D-Nexus/ProjectSettings/EditorBuildSettings.asset
+D&D-Nexus/ProjectSettings/EditorSettings.asset
+D&D-Nexus/ProjectSettings/GraphicsSettings.asset
+D&D-Nexus/ProjectSettings/InputManager.asset
+D&D-Nexus/ProjectSettings/MemorySettings.asset
+D&D-Nexus/ProjectSettings/NavMeshAreas.asset
+D&D-Nexus/ProjectSettings/PackageManagerSettings.asset
+D&D-Nexus/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+D&D-Nexus/ProjectSettings/Physics2DSettings.asset
+D&D-Nexus/ProjectSettings/PresetManager.asset
+D&D-Nexus/ProjectSettings/ProjectSettings.asset
+D&D-Nexus/ProjectSettings/ProjectVersion.txt
+D&D-Nexus/ProjectSettings/QualitySettings.asset
+D&D-Nexus/ProjectSettings/SceneTemplateSettings.json
+D&D-Nexus/ProjectSettings/TagManager.asset
+D&D-Nexus/ProjectSettings/TimelineSettings.asset
+D&D-Nexus/ProjectSettings/TimeManager.asset
+D&D-Nexus/ProjectSettings/UnityConnectSettings.asset
+D&D-Nexus/ProjectSettings/VersionControlSettings.asset
+D&D-Nexus/ProjectSettings/VFXManager.asset
+D&D-Nexus/ProjectSettings/XRSettings.asset
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue2.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue2.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue3.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_blue3.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_brown.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_cyan.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green1.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green1.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green2.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green2.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green3.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_green3.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey1.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey1.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey2.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey2.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey3.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey4.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_grey4.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_magenta.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_magenta.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_normal.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_normal.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_olive.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_olive.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_orange.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_orange.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_pink.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_pink.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_purple.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_purple.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_red.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_red.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_white.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_white.png.meta
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_yellow.png
+Nexus/Assets/Thirdparty/Ciathyza/Gridbox Prototype Materials/Textures/prototype_512x512_yellow.png.meta
+Nexus/FloorTiles.jpg.meta
+Nexus/Movement - Tutorial (Unity Project).zip
+Nexus/Packages/manifest.json
+Nexus/Packages/packages-lock.json
+Nexus/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
